@@ -7,6 +7,7 @@ module.exports = {
     colors: {
       white: colors.white,
       gray: "#252525",
+      "dark-gray": "#121212",
       purple: "#6930c3"
     },
     container: {
